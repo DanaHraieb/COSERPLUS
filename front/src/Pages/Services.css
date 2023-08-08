@@ -1,0 +1,12 @@
+.sect{
+    padding-left: 35px;
+}
+.sect h1{
+    font-size: 35px;
+    font-weight: 600;
+}
+.p{
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: black;
+}
