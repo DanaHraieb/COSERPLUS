@@ -291,8 +291,8 @@ Le cabinet de comptabilité COSERPLUS a été fondé par ZOUAI NABIL est une ent
               <div className="carousel-item active">
                 <div className="container">
                   <div className="carousel-caption posi_in">
-                    <div className="clientsl_text">
-                      <i><img src="images/fish.jpg" alt="#" /></i>
+                    <div className="clientsl_text" style={{textAlign:"left" , paddingTop:"35px"}}>
+                      <img src="images/fish.jpg" height={"115px"}  alt="#" /><br></br>
                        <h3>Sté Fish Monastir <img src="images/icon.png" /></h3>
                        <p>Chez COSERPLUS, notre mission est de vous accompagner dans votre succès financier. Nous nous engageons à fournir des services de la plus haute qualité, en maintenant une relation de confiance et de respect mutuel avec nos clients. Notre approche centrée sur le client nous permet de comprendre vos besoins uniques et de vous offrir des solutions adaptées qui correspondent à vos objectifs</p>
                     </div>
@@ -302,8 +302,8 @@ Le cabinet de comptabilité COSERPLUS a été fondé par ZOUAI NABIL est une ent
               <div className="carousel-item">
                 <div className="container">
                   <div className="carousel-caption posi_in">
-                    <div className="clientsl_text">
-                      <i><img src="images/promac.jpg"  /></i>
+                    <div className="clientsl_text" style={{textAlign:"left" , paddingTop:"35px"}}>
+                     <img src="images/promac.jpg" height={"115px"}  /><br></br>
                       <h3>Société Promac <img src="images/icon.png" alt="#"/></h3>
                       <p> Confiez votre comptabilité à COSERPLUS, et laissez-nous transformer vos chiffres en succès. Prenez rendez-vous dès aujourd'hui pour une consultation confidentielle et découvrez comment nous pouvons contribuer à la croissance et à la prospérité de votre entreprise.
 
@@ -315,8 +315,8 @@ Le cabinet de comptabilité COSERPLUS a été fondé par ZOUAI NABIL est une ent
               <div className="carousel-item">
                 <div className="container">
                   <div className="carousel-caption posi_in">
-                    <div className="clientsl_text">
-                      <i><img src="images/ABIR.jpg"  /></i>
+                    <div className="clientsl_text" style={{textAlign:"left", paddingTop:"35px"}}>
+                      <img src="images/ABIR.jpg" height={"115px"}  /><br></br>
                       <br/><h3>Sté Chaussettes Abir    <img src="images/icon.png" /></h3>
                       <p> "Le cabinet de comptabilité COSERPLUS a été un partenaire précieux pour notre entreprise. Leurs conseils financiers avisés ont grandement contribué à notre croissance et à notre rentabilité."
 

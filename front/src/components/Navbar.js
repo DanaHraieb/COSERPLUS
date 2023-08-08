@@ -17,7 +17,7 @@ function Navbar() {
             </div>
           </div>
         </div>
-        <div className="col-md-10">
+        <div className="col-md-9">
           <nav className="navigation navbar navbar-expand-md navbar-dark ">
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
               <span className="navbar-toggler-icon" />
