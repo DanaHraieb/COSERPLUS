@@ -6,6 +6,9 @@
   background: none;
   padding: 0px 30px;
 }
+.dropbtn:hover{
+  color:#E8D01B;
+}
 
 .dropdown {
   position: relative;
@@ -29,13 +32,13 @@
   text-align: center;
 }
 
-.dropdown-content a:hover {background-color: #dfdb0fab}
+.dropdown-content a:hover {background-color: #e8d01bc9}
 
 .dropdown:hover .dropdown-content {
   display: block;
 }
 
-.dropdown:hover .dropbtn {
+.dropdown:hover  {
   /* background-color: black; */
  color: white;
 }
