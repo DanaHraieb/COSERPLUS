@@ -10,6 +10,7 @@ import Liens from './Pages/Liens';
 import { useEffect } from 'react';
 import Actualites from './Pages/Actualites';
 import Login from './Pages/Login';
+import Dashboard from './Pages/Dashboard';
 function App() {
   useEffect(() => {
     window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
@@ -27,7 +28,9 @@ function App() {
 <Route path='/Liens'element={<Liens/>}/>
 <Route path='/actualité' element={<Actualites/>}/>
 <Route path='/login' element={<Login/>}/>
+<Route path='/dashboard' element={<Dashboard/>}/>
    </Routes>
+   
    <Footer/>
     </Router>
   );
